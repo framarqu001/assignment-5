@@ -1,0 +1,7 @@
+result file is : one_6.txt
+Executing: ./first 256 assoc:64 lru 4 /Users/steven/Documents/pa5_autograder/testcases/first/input/trace1.txt > one_6.txt
+expected result: memread:336 , line number is: 1
+program produced: memread:340 , line number is: 1
+one_6.txt is not correct
+
+
